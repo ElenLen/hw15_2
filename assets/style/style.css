@@ -1,0 +1,9 @@
+main {
+  background-color: powderblue;
+}
+
+#main__sity-max,
+#main__sity-min {
+  font-style: italic;
+  font-weight: bold;
+}
